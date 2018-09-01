@@ -1,2 +1,4 @@
 # java-8-features
-A playground for new features introduced with Java 8 
+A playground for new features introduced with Java 8.
+
+## Relevant Links
