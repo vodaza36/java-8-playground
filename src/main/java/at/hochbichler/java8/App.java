@@ -11,6 +11,7 @@ public class App
 {
     public static void main( String[] args )
     {
+        System.out.println("Welchome to my Java 8 plaground!");
         CustomFunctionalInterface ci = (String p) -> System.out.println("Hello: " + p);
         ci.firstMethod("Thomas");
 
